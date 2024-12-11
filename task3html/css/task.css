@@ -1,0 +1,42 @@
+.p1{
+    color:blueviolet;
+}
+.p2{
+    color:red;
+}
+.p3{
+    color: blue;
+}
+.p4{
+    color:green;
+}
+/*..................task2................*/
+
+#ma{
+    font-size: 18px;
+}
+#mb{
+    font-size: 30px;
+    color: gray;
+}
+#mc{
+    font-size: 1.5em;
+font-family: 'Franklin Gothic Medium', ;
+color: blue;}
+#md{
+    font-size: 25px;
+    color: purple;
+    font-family: cursive;
+}
+/*...................task3.................*/
+
+.qw{
+    text-decoration: underline;
+    text-align: center;
+}
+.er{
+    text-transform: capitalize;
+}
+.xc{
+    text-transform:uppercase;
+}
